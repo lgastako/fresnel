@@ -1,0 +1,1 @@
+{:require [fresnel.app adzerk.boot-cljs-repl adzerk.boot-reload], :init-fns [fresnel.app/init]}

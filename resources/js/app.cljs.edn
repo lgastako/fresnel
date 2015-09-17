@@ -1,2 +1,0 @@
-{:require  [fresnel.app]
- :init-fns [fresnel.app/init]}
